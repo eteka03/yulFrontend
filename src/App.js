@@ -13,7 +13,7 @@ function App() {
     });
     const avatar = await data;
 
-    console.log("all datas", avatar);
+    console.log("all data", avatar);
   };
   return (
     <div className="App">
